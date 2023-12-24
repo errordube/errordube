@@ -1,4 +1,4 @@
-# Aditya Dube - Data Science & Analytics Enthusiast
+# Aditya Dube (Adi) - Data Science & Analytics Enthusiast
 
 Welcome to my GitHub! I'm Aditya, currently pursuing a Master's in Data Science and Analytics at Grand Valley State University. With a passion for machine learning, data analysis, and technology, I'm dedicated to leveraging data to drive insightful decisions and innovation. Let's connect!
 
