@@ -9,14 +9,6 @@ Welcome to my GitHub! I'm Aditya, currently pursuing a Master's in Data Science 
 - **GitHub:** [errordube](https://github.com/errordube)
 - **LeetCode:** [dubeaditya](https://leetcode.com/dubeaditya/)
 
-## 🎓 Education
-- **M.S. in Data Science and Analytics**
-  - Grand Valley State University, Grand Rapids, MI
-  - Jan 2023 – Dec 2024 | GPA: 3.73/4.0
-- **B.Tech in Computer Science and Engineering**
-  - Jaypee University of Engineering and Technology, India
-  - July 2017 – June 2021 | GPA: 3.36/4.0
-
 ## 💻 Technical Skills
 - **Programming Languages**: Python, R, SQL, C/C++
 - **Data Science Tools**: Statistical Analysis, SAS, Data Cleaning, Tableau, Power BI
@@ -31,11 +23,18 @@ Welcome to my GitHub! I'm Aditya, currently pursuing a Master's in Data Science 
 - **Graduate Research Assistant**, Grand Valley State University (Aug 2023 - Dec 2023): Collaborating on NLP and ML projects, focusing on text summarization and paraphrase detection.
 - **Programmer Analyst Trainee**, Cognizant Technology Solutions, India (Feb 2021- Jul 2022): Specialized in database operations, testing, and software reliability.
 
-
 ## 🚀 Projects Showcase
 - **Fast Food Restaurant Analysis (R Studio):** Deep dive into the fast-food industry in the USA.
 - **Predicting Healthcare Costs (R Studio):** ML model to forecast patient costs in Medicare.
 - **Vehicle Collision Analysis WebApp (Python & Streamlit):** Interactive visualization of NYC vehicle accidents.
+
+## 🎓 Education
+- **M.S. in Data Science and Analytics**
+  - Grand Valley State University, Grand Rapids, MI
+  - Jan 2023 – Dec 2024 | GPA: 3.73/4.0
+- **B.Tech in Computer Science and Engineering**
+  - Jaypee University of Engineering and Technology, India
+  - July 2017 – June 2021 | GPA: 3.36/4.0
 
 ## 📜 Certifications
 - SAS Programming, R Programming, SQL Intermediate, Infosys Certified Software Programmer.
