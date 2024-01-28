@@ -41,8 +41,7 @@ Welcome to my GitHub! I'm Aditya, currently pursuing a Master's in Data Science 
 - SAS Programming, R Programming, SQL Intermediate, Infosys Certified Software Programmer.
 
 ## 🏆 Achievements
-- Author of ["Whispers of the Wounded Soul"]([https://example.com/whispers-of-the-wounded-soul](https://www.amazon.com/Whispers-wounded-soul-ADITYA-DUBE-ebook/dp/B0CDRWQ61D/ref=sr_1_2?crid=1XW2044355SY&keywords=whispers+of+the+wounded+soul&qid=1706408709&sprefix=%2Caps%2C136&sr=8-2)) and ["The Love That Frightens Me"]([https://example.com/the-love-that-frightens-me](https://www.amazon.com/LOVE-THAT-FRIGHTENS-ADITYA-DUBE-ebook/dp/B0B1Z876P7/ref=sr_1_2?qid=1706408723&refinements=p_27%3AADITYA+DUBE&s=digital-text&sr=1-2&text=ADITYA+DUBE)).
-
+- Author of ["Whispers of the Wounded Soul"](https://www.amazon.com/Whispers-wounded-soul-ADITYA-DUBE-ebook/dp/B0CDRWQ61D/ref=sr_1_2?crid=1XW2044355SY&keywords=whispers+of+the+wounded+soul&qid=1706408709&sprefix=%2Caps%2C136&sr=8-2) and ["The Love That Frightens Me"](https://www.amazon.com/LOVE-THAT-FRIGHTENS-ADITYA-DUBE-ebook/dp/B0B1Z876P7/ref=sr_1_2?qid=1706408723&refinements=p_27%3AADITYA+DUBE&s=digital-text&sr=1-2&text=ADITYA+DUBE).
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=errordube&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
