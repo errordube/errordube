@@ -19,6 +19,7 @@ Predictive Modeling and Forecasting, Advanced Machine Learning Techniques
 - **Cloud Computing and Big Data Solutions:** AWS, Microsoft Azure, GCP, Snowflake
 
 ## 👨‍💼 Professional Experience
+- **Application System Analyst**,Corewell Health (Feb 2025 - Present)
 - **Graduate Assistant**, Grand Valley State University (Aug 2024-Dec 2024): Analyzing firm-level trust scores using statistical models to uncover market trends and key insights.
 - **Revenue Cycle Intern**, Corewell Health (May 2024-Aug 2024): Build a tableau scorecard dashboard for 26 vendors. 
 - **Graduate Assistant**, Grand Valley State University (Jan 2024-April 2024): Spearheading economic research projects with a focus on retirement health and Social Security studies.
