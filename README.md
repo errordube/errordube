@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm Aditya, currently pursuing a Master's in Data Science and Analytics at Grand Valley State University. With a passion for machine learning, data analysis, and technology, I'm dedicated to leveraging data to drive insightful decisions and innovation. Let's connect!
 
 ## 📫 How to Reach Me
-- **Phone:** 616.290.6436
+- **Phone:** 947.280.0456
 - **Email:** [dube.aditya8@gmail.com](mailto:dube.aditya8@gmail.com)
 - **LinkedIn:** [dubeaditya](https://www.linkedin.com/in/dubeaditya/)
 - **GitHub:** [errordube](https://github.com/errordube)
